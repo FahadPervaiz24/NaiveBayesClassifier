@@ -57,6 +57,14 @@ $$
 
 ### ▶️ Compile & Run
 
+
 ```bash
 javac P3.java
 java P3
+```
+You should see output like:
+"The accuracy of the current predictions is 99.65%"
+
+
+
+
